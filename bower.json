@@ -1,0 +1,25 @@
+{
+  "name": "CommunityAdmin",
+  "homepage": "https://github.com/nvanduoc/webike.community.admin",
+  "authors": [
+    "Duoc Nguyen <nguyen.duoc@rivercrane.vn>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "webike",
+    "webike.net",
+    "community",
+    "community admin"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
