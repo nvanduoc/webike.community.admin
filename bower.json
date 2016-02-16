@@ -1,5 +1,6 @@
 {
-  "name": "CommunityAdmin",
+  "name": "webike.community.admin",
+  "version": "0.1",
   "homepage": "https://github.com/nvanduoc/webike.community.admin",
   "authors": [
     "Duoc Nguyen <nguyen.duoc@rivercrane.vn>"
